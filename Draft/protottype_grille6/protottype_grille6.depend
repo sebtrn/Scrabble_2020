@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605996718 source:c:\users\waldf\desktop\project_1\protottype_grille6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

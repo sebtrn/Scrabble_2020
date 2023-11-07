@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607020282 source:c:\users\waldf\desktop\project_1\test_dico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

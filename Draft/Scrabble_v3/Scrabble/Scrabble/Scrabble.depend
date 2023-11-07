@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1605818858 source:c:\codeblocks\scrabble\chronometre.c
+	"fichier.h"
+
+1606041862 c:\codeblocks\scrabble\fichier.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+
+1606041329 source:c:\codeblocks\scrabble\main.c
+	"fichier.h"
+
+1605976530 source:c:\codeblocks\scrabble\pioche.c
+	"fichier.h"
+
+1606041862 source:c:\codeblocks\scrabble\plateau.c
+	"fichier.h"
+
+1606042036 source:c:\codeblocks\scrabble\aide.c
+	"fichier.h"
+
+1606042083 source:c:\codeblocks\scrabble\menu.c
+	"fichier.h"
+
+1606041862 source:c:\codeblocks\scrabble\ecran_accueil.c
+	"fichier.h"
+
+1606041357 source:c:\codeblocks\scrabble\couleur.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\aide.c
+	"fichier.h"
+
+1606045497 c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\fichier.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\chronometre.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\couleur.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\ecran_accueil.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\main.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\menu.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\pioche.c
+	"fichier.h"
+
+1606045497 source:c:\users\waldf\desktop\scrabble_v3\scrabble\scrabble\plateau.c
+	"fichier.h"
+

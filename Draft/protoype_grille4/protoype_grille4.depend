@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605955855 source:c:\users\waldf\desktop\codeblocks\protoype_grille4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605955855 source:c:\users\waldf\desktop\project_1\protoype_grille4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

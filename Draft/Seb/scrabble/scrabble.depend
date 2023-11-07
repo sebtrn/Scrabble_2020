@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605545984 source:f:\users\windows\desktop\ing1\informatique\scrabble\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1605957846 source:c:\users\waldf\desktop\project_1\seb\scrabble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
